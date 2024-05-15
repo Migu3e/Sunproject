@@ -1,0 +1,14 @@
+C:\Users\Itay\RiderProjects\Sunproject\SunProject\bin\Debug\net7.0\SunProject.exe
+C:\Users\Itay\RiderProjects\Sunproject\SunProject\bin\Debug\net7.0\SunProject.deps.json
+C:\Users\Itay\RiderProjects\Sunproject\SunProject\bin\Debug\net7.0\SunProject.runtimeconfig.json
+C:\Users\Itay\RiderProjects\Sunproject\SunProject\bin\Debug\net7.0\SunProject.dll
+C:\Users\Itay\RiderProjects\Sunproject\SunProject\bin\Debug\net7.0\SunProject.pdb
+C:\Users\Itay\RiderProjects\Sunproject\SunProject\obj\Debug\net7.0\SunProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Itay\RiderProjects\Sunproject\SunProject\obj\Debug\net7.0\SunProject.AssemblyInfoInputs.cache
+C:\Users\Itay\RiderProjects\Sunproject\SunProject\obj\Debug\net7.0\SunProject.AssemblyInfo.cs
+C:\Users\Itay\RiderProjects\Sunproject\SunProject\obj\Debug\net7.0\SunProject.csproj.CoreCompileInputs.cache
+C:\Users\Itay\RiderProjects\Sunproject\SunProject\obj\Debug\net7.0\SunProject.dll
+C:\Users\Itay\RiderProjects\Sunproject\SunProject\obj\Debug\net7.0\refint\SunProject.dll
+C:\Users\Itay\RiderProjects\Sunproject\SunProject\obj\Debug\net7.0\SunProject.pdb
+C:\Users\Itay\RiderProjects\Sunproject\SunProject\obj\Debug\net7.0\SunProject.genruntimeconfig.cache
+C:\Users\Itay\RiderProjects\Sunproject\SunProject\obj\Debug\net7.0\ref\SunProject.dll

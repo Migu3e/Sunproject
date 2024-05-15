@@ -1,10 +1,12 @@
-namespace SunProject.Code.MathUtilities;
-
-public static class MathUtilities
+namespace SunProject.Code.MathUtilities
 {
-    // Converts an angle from degrees to radians.
-    public static double ConvertDegreesToRadians(double degrees)
+    public static class MathUtilities
     {
-        return (Math.PI / 180) * degrees;
+        // Converts an angle from degrees to radians.
+        public static double ConvertDegreesToRadians(double degrees)
+        {
+            return (Math.PI / 180) * degrees;
+        }
     }
 }
+

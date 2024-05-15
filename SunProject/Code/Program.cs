@@ -10,13 +10,13 @@ public class Program
     {
         int year = 2024;
         double latitude = 32.19306;
-        double longitude = 34.7818;  // Assuming you might use longitude in future expansions
+        double longitude = 34.7818;
 
         Analemma analemma = new Analemma(latitude);
         Date date = new Date
         {
-            Day = 20,
-            Month = 4,
+            Day = 15,
+            Month = 5,
             Year = year,
         };
 
@@ -28,7 +28,7 @@ public class Program
 
         if (date.CheckDate())
         {
-            int J = dateUtilities.CalculateJulianDate(new Date { Day = 1, Month = 1, Year = year }, date);  // Assuming CalculateJulianDate needs a start and end date
+            int J = dateUtilities.CalculateJulianDate(new Date { Day = 1, Month = 1, Year = year }, date);
 
             double yAxis = analemma.CalculateYAxis(J);
             double xAxis = analemma.CalculateXAxis(J);
